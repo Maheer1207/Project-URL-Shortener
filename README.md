@@ -33,9 +33,10 @@ long URLS page.
 
 ### Running Server Locally
 1. Create a virtual environment in the server folder (python3 -m venv venv); if not created/existed
-2. Activate virtual environment (`source venv/bin/activate` for mac and `venv/Scripts/activate` for windows)
-3. Besure you have the ServiceAccountKey.json in server. 
-4. `python wsgi.py`
+2. Run `pip install -r requirements.txt` in the terminal, to install all the requirements required to run the server
+3. Activate virtual environment (`source venv/bin/activate` for mac and `venv/Scripts/activate` for windows)
+4. Besure you have the ServiceAccountKey.json in server. 
+5. `python wsgi.py`
 
 The flask app is also set up to run the production version the react app. The build should be locatedin the app folder for this to work!
 
