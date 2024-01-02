@@ -46,6 +46,4 @@ The flask app is also set up to run the production version the react app. The bu
 3. Paste the link copied from the Server's in a browser, having the last portion of the shortened URL or the preferred alias, following the link after the "/". 
 4. The link will redirect to the main URL that has been shortened
 
-## So many hassels woulnd't be required, if I would have deployed it to a clouds like Heroku or Azure. However, to avoid the cost, I choose not to deploy it. If it was deployed, the short-url generated would have rediercted us to the Web page of the Long URL.
-
-Happy coding!
+## So many steps woulnd't be required, if I would have deployed it to a clouds like Heroku or Azure. However, to avoid the cost, I choose not to deploy it. If it was deployed, the short-url generated would have rediercted us to the Web page of the Long URL.
